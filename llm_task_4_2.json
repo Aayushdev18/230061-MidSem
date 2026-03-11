@@ -1,0 +1,19 @@
+{
+  "student_name": "Ayush Dev",
+  "course": "Advanced Machine Learning",
+  "assignment": "Midsem Part B",
+  "llm_usage": [
+    {
+      "tool": "ChatGPT/Claude",
+      "usage": "Assisted with formatting and mathematical justification syntax for Task 4.2.",
+      "date": "2026-03-12",
+      "task tag": "Task 4.2",
+      "code used verbatim": false,
+      "student modification": "Refined the mathematical explanations, replaced loops with vectorized numpy operations.",
+      "top_5_prompts": [
+        "How do I formulate the response or code for Midsem Task 4.2 for the Random Fourier Features method?"
+      ]
+    }
+  ],
+  "verification": "I verify this is my own work and fully disclose LLM usage."
+}
